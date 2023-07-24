@@ -1,0 +1,13 @@
+name = "Piece of Peace"
+author = "Aproxia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "56d958ce674a08331d5443f19a29ec0013b4ec25cfefbc9907e815c5d7039ee4"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.2"

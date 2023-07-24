@@ -1,0 +1,13 @@
+name = "Flat Weapons"
+filename = "Flat Weapons.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Awo7cTjO/versions/wwRGUnMC/Flat%20Weapons.zip"
+hash-format = "sha1"
+hash = "cba1ffbf6fa39d53ed66cb8957ccf4643a22c6ae"
+
+[update]
+[update.modrinth]
+mod-id = "Awo7cTjO"
+version = "wwRGUnMC"

@@ -1,0 +1,1212 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 19, 2023, 11:20:37 PM
+
+#spelunkery:has_swamp_noise
+- minecraft:mangrove_swamp (from Spelunkery)
+- minecraft:swamp (from Spelunkery)
+
+#minecraft:has_structure/nether_fortress
+- #minecraft:is_nether (from Default)
+
+#immersive_weathering:has_fluvisol
+- #c:swamp? (from Immersive Weathering)
+- minecraft:swamp (from Immersive Weathering)
+
+#c:is_hot/overworld
+- minecraft:desert (from Porting Lib Tags)
+- minecraft:jungle (from Porting Lib Tags)
+- minecraft:sparse_jungle (from Porting Lib Tags)
+- minecraft:savanna (from Porting Lib Tags)
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:stony_peaks (from Porting Lib Tags)
+- minecraft:warm_ocean (from Porting Lib Tags)
+- minecraft:windswept_savanna (from Porting Lib Tags)
+- minecraft:eroded_badlands (from Porting Lib Tags)
+- minecraft:bamboo_jungle (from Porting Lib Tags)
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+
+#supplementaries:has_cave_urns
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#c:is_cold/overworld
+- minecraft:taiga (from Porting Lib Tags)
+- minecraft:frozen_ocean (from Porting Lib Tags)
+- minecraft:frozen_river (from Porting Lib Tags)
+- minecraft:snowy_plains (from Porting Lib Tags)
+- minecraft:snowy_beach (from Porting Lib Tags)
+- minecraft:snowy_taiga (from Porting Lib Tags)
+- minecraft:old_growth_pine_taiga (from Porting Lib Tags)
+- minecraft:grove (from Porting Lib Tags)
+- minecraft:snowy_slopes (from Porting Lib Tags)
+- minecraft:jagged_peaks (from Porting Lib Tags)
+- minecraft:frozen_peaks (from Porting Lib Tags)
+- minecraft:cold_ocean (from Porting Lib Tags)
+- minecraft:deep_cold_ocean (from Porting Lib Tags)
+- minecraft:deep_frozen_ocean (from Porting Lib Tags)
+- minecraft:ice_spikes (from Porting Lib Tags)
+
+#minecraft:has_structure/mineshaft
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_beach (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_hill (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:desert (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+
+#beautify:has_structure/botanist_house_plains_biomes
+
+#minecraft:has_structure/jungle_temple
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+
+#c:mushroom
+- minecraft:mushroom_fields (from Quilted Fabric Convention Tags API (v1))
+
+#c:mountain
+- #minecraft:is_mountain? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:is_jungle
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+
+#c:is_hot
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+- #c:is_hot/overworld (from Porting Lib Tags)
+- #c:is_hot/nether (from Porting Lib Tags)
+- #c:is_hot/end? (from Porting Lib Tags)
+
+#minecraft:is_ocean
+- #minecraft:is_deep_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+
+#c:is_water
+- #minecraft:is_ocean (from Porting Lib Tags)
+- #minecraft:is_river (from Porting Lib Tags)
+
+#twigs:schist_generates
+- #c:mountain (from Twigs)
+
+#minecraft:has_structure/ocean_ruin_cold
+- minecraft:frozen_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+
+#spelunkery:has_nether_veins
+- #minecraft:is_nether (from Spelunkery)
+
+#minecraft:produces_corals_from_bonemeal
+- minecraft:warm_ocean (from Default)
+
+#c:is_wasteland
+- minecraft:snowy_plains (from Porting Lib Tags)
+
+#minecraft:has_structure/stronghold
+- #minecraft:is_overworld (from Default)
+
+#apoli:category/beach
+- #minecraft:is_beach (from Apoli)
+
+#minecraft:has_structure/mineshaft_mesa
+- #minecraft:is_badlands (from Default)
+
+#minecraft:has_structure/ancient_city
+- minecraft:deep_dark (from Default)
+
+#immersive_weathering:icy
+- #forge:is_snowy? (from Immersive Weathering)
+- #c:icy? (from Immersive Weathering)
+- minecraft:ice_spikes (from Immersive Weathering)
+- minecraft:frozen_peaks (from Immersive Weathering)
+- minecraft:jagged_peaks (from Immersive Weathering)
+- minecraft:snowy_slopes (from Immersive Weathering)
+- minecraft:snowy_plains (from Immersive Weathering)
+- minecraft:snowy_taiga (from Immersive Weathering)
+- minecraft:frozen_ocean (from Immersive Weathering)
+- minecraft:deep_frozen_ocean (from Immersive Weathering)
+- minecraft:frozen_river (from Immersive Weathering)
+
+#spelunkery:has_ocean_noise
+- minecraft:deep_frozen_ocean (from Spelunkery)
+- minecraft:frozen_ocean (from Spelunkery)
+- minecraft:deep_cold_ocean (from Spelunkery)
+- minecraft:cold_ocean (from Spelunkery)
+- minecraft:deep_ocean (from Spelunkery)
+- minecraft:ocean (from Spelunkery)
+- minecraft:deep_lukewarm_ocean (from Spelunkery)
+- minecraft:lukewarm_ocean (from Spelunkery)
+- minecraft:warm_ocean (from Spelunkery)
+
+#minecraft:has_structure/shipwreck
+- #minecraft:is_ocean (from Default)
+
+#c:snowy_plains
+- minecraft:snowy_plains (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/jungle
+- #minecraft:is_jungle (from Apoli)
+
+#c:vegetation_dense
+- #c:jungle? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:sunflower_plains (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/savanna
+- #minecraft:is_savanna (from Apoli)
+
+#c:is_hot/nether
+- minecraft:nether_wastes (from Porting Lib Tags)
+- minecraft:soul_sand_valley (from Porting Lib Tags)
+- minecraft:crimson_forest (from Porting Lib Tags)
+- minecraft:warped_forest (from Porting Lib Tags)
+- minecraft:basalt_deltas (from Porting Lib Tags)
+
+#immersive_weathering:hot
+- #forge:is_hot? (from Immersive Weathering)
+- #c:climate_dry? (from Immersive Weathering)
+- minecraft:badlands (from Immersive Weathering)
+- minecraft:wooded_badlands (from Immersive Weathering)
+- minecraft:eroded_badlands (from Immersive Weathering)
+- minecraft:savanna (from Immersive Weathering)
+- minecraft:windswept_savanna (from Immersive Weathering)
+- minecraft:savanna_plateau (from Immersive Weathering)
+- minecraft:desert (from Immersive Weathering)
+
+#immersive_weathering:has_sandstorm
+- #c:desert? (from Immersive Weathering)
+- minecraft:desert (from Immersive Weathering)
+- minecraft:warm_ocean (from Immersive Weathering)
+
+#minecraft:is_hill
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+
+#c:forest
+- #minecraft:is_forest? (from Quilted Fabric Convention Tags API (v1))
+
+#immersive_weathering:has_nether_veins
+- #minecraft:is_nether (from Immersive Weathering)
+
+#c:end_islands
+
+#twigs:spawns_sea_shell
+- #minecraft:is_deep_ocean (from Twigs)
+- #minecraft:is_ocean (from Twigs)
+- #minecraft:is_beach (from Twigs)
+- #minecraft:is_river (from Twigs)
+- minecraft:stony_shore (from Twigs)
+
+#c:is_plateau
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+- minecraft:meadow (from Porting Lib Tags)
+
+#c:dead
+
+#c:swamp
+- minecraft:mangrove_swamp (from Quilted Fabric Convention Tags API (v1))
+- minecraft:swamp (from Quilted Fabric Convention Tags API (v1))
+
+#c:in_overworld
+- #minecraft:is_overworld? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:river (from Quilted Fabric Convention Tags API (v1))
+- minecraft:frozen_river (from Quilted Fabric Convention Tags API (v1))
+- minecraft:cold_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_cold_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_frozen_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_lukewarm_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:warm_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:lukewarm_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:frozen_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:beach (from Quilted Fabric Convention Tags API (v1))
+- minecraft:plains (from Quilted Fabric Convention Tags API (v1))
+- minecraft:sunflower_plains (from Quilted Fabric Convention Tags API (v1))
+- minecraft:snowy_plains (from Quilted Fabric Convention Tags API (v1))
+- minecraft:ice_spikes (from Quilted Fabric Convention Tags API (v1))
+- minecraft:desert (from Quilted Fabric Convention Tags API (v1))
+- minecraft:forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:flower_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:birch_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:dark_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:old_growth_birch_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:old_growth_pine_taiga (from Quilted Fabric Convention Tags API (v1))
+- minecraft:old_growth_spruce_taiga (from Quilted Fabric Convention Tags API (v1))
+- minecraft:taiga (from Quilted Fabric Convention Tags API (v1))
+- minecraft:snowy_taiga (from Quilted Fabric Convention Tags API (v1))
+- minecraft:savanna (from Quilted Fabric Convention Tags API (v1))
+- minecraft:savanna_plateau (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_hills (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_gravelly_hills (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_savanna (from Quilted Fabric Convention Tags API (v1))
+- minecraft:jungle (from Quilted Fabric Convention Tags API (v1))
+- minecraft:sparse_jungle (from Quilted Fabric Convention Tags API (v1))
+- minecraft:bamboo_jungle (from Quilted Fabric Convention Tags API (v1))
+- minecraft:badlands (from Quilted Fabric Convention Tags API (v1))
+- minecraft:eroded_badlands (from Quilted Fabric Convention Tags API (v1))
+- minecraft:wooded_badlands (from Quilted Fabric Convention Tags API (v1))
+- minecraft:meadow (from Quilted Fabric Convention Tags API (v1))
+- minecraft:grove (from Quilted Fabric Convention Tags API (v1))
+- minecraft:snowy_slopes (from Quilted Fabric Convention Tags API (v1))
+- minecraft:frozen_peaks (from Quilted Fabric Convention Tags API (v1))
+- minecraft:jagged_peaks (from Quilted Fabric Convention Tags API (v1))
+- minecraft:stony_peaks (from Quilted Fabric Convention Tags API (v1))
+- minecraft:mushroom_fields (from Quilted Fabric Convention Tags API (v1))
+- minecraft:dripstone_caves (from Quilted Fabric Convention Tags API (v1))
+- minecraft:lush_caves (from Quilted Fabric Convention Tags API (v1))
+- minecraft:snowy_beach (from Quilted Fabric Convention Tags API (v1))
+- minecraft:swamp (from Quilted Fabric Convention Tags API (v1))
+- minecraft:stony_shore (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_dark (from Quilted Fabric Convention Tags API (v1))
+- minecraft:mangrove_swamp (from Quilted Fabric Convention Tags API (v1))
+
+#spelunkery:has_lush_noise
+- minecraft:lush_caves (from Spelunkery)
+
+#c:tree_jungle
+- #c:jungle? (from Quilted Fabric Convention Tags API (v1))
+
+#beautify:has_structure/botanist_house_taiga_biomes
+
+#beautify:has_structure/botanist_house_desert_biomes
+
+#spelunkery:has_end_noise
+- minecraft:end_barrens (from Spelunkery)
+- minecraft:end_highlands (from Spelunkery)
+- minecraft:end_midlands (from Spelunkery)
+
+#twigs:spawns_pebble
+- #minecraft:is_river (from Twigs)
+- #minecraft:is_savanna (from Twigs)
+- #minecraft:is_taiga (from Twigs)
+- #minecraft:is_beach (from Twigs)
+- minecraft:plains (from Twigs)
+- minecraft:sunflower_plains (from Twigs)
+- minecraft:meadow (from Twigs)
+- minecraft:mushroom_fields (from Twigs)
+- minecraft:windswept_forest (from Twigs)
+- minecraft:windswept_hills (from Twigs)
+- minecraft:windswept_gravelly_hills (from Twigs)
+- minecraft:stony_shore (from Twigs)
+- minecraft:swamp (from Twigs)
+
+#minecraft:has_structure/ruined_portal_ocean
+- #minecraft:is_ocean (from Default)
+
+#c:river
+- #minecraft:is_river? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:is_deep_ocean
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#c:windswept
+- minecraft:windswept_hills (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_gravelly_hills (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_savanna (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:is_nether
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:crimson_forest (from Default)
+- minecraft:warped_forest (from Default)
+- minecraft:basalt_deltas (from Default)
+
+#immersive_weathering:has_humus
+- minecraft:dark_forest (from Immersive Weathering)
+
+#twigs:silt_generates
+- minecraft:nether_wastes (from Twigs)
+- minecraft:soul_sand_valley (from Twigs)
+
+#c:climate_hot
+- #c:jungle? (from Quilted Fabric Convention Tags API (v1))
+- #c:savanna? (from Quilted Fabric Convention Tags API (v1))
+- #c:desert? (from Quilted Fabric Convention Tags API (v1))
+- #c:badlands? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:stony_peaks (from Quilted Fabric Convention Tags API (v1))
+- #c:mushroom? (from Quilted Fabric Convention Tags API (v1))
+- #c:in_nether? (from Quilted Fabric Convention Tags API (v1))
+
+#c:is_sandy
+- minecraft:desert (from Porting Lib Tags)
+- minecraft:beach (from Porting Lib Tags)
+- minecraft:badlands (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+
+#c:desert
+- minecraft:desert (from Quilted Fabric Convention Tags API (v1))
+
+#c:is_plains
+- minecraft:plains (from Porting Lib Tags)
+- minecraft:snowy_plains (from Porting Lib Tags)
+- minecraft:meadow (from Porting Lib Tags)
+- minecraft:sunflower_plains (from Porting Lib Tags)
+
+#immersive_weathering:has_ivy
+- #c:forest? (from Immersive Weathering)
+- minecraft:forest (from Immersive Weathering)
+- minecraft:windswept_forest (from Immersive Weathering)
+- minecraft:flower_forest (from Immersive Weathering)
+- minecraft:dark_forest (from Immersive Weathering)
+- minecraft:birch_forest (from Immersive Weathering)
+- minecraft:old_growth_birch_forest (from Immersive Weathering)
+
+#spelunkery:has_ice_noise
+- minecraft:ice_spikes (from Spelunkery)
+- minecraft:snowy_slopes (from Spelunkery)
+- minecraft:frozen_peaks (from Spelunkery)
+
+#twigs:azalea_flowers_generate
+- minecraft:lush_caves (from Twigs)
+
+#c:shallow_ocean
+- minecraft:ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:lukewarm_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:frozen_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:cold_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:warm_ocean (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/swamp
+- minecraft:swamp (from Apoli)
+
+#c:is_coniferous
+- minecraft:taiga (from Porting Lib Tags)
+- minecraft:snowy_taiga (from Porting Lib Tags)
+- minecraft:old_growth_pine_taiga (from Porting Lib Tags)
+- minecraft:grove (from Porting Lib Tags)
+
+#c:is_rare
+- minecraft:mushroom_fields (from Porting Lib Tags)
+- minecraft:sparse_jungle (from Porting Lib Tags)
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:sunflower_plains (from Porting Lib Tags)
+- minecraft:windswept_gravelly_hills (from Porting Lib Tags)
+- minecraft:flower_forest (from Porting Lib Tags)
+- minecraft:ice_spikes (from Porting Lib Tags)
+- minecraft:old_growth_birch_forest (from Porting Lib Tags)
+- minecraft:old_growth_spruce_taiga (from Porting Lib Tags)
+- minecraft:windswept_savanna (from Porting Lib Tags)
+- minecraft:eroded_badlands (from Porting Lib Tags)
+- minecraft:bamboo_jungle (from Porting Lib Tags)
+- minecraft:deep_dark (from Porting Lib Tags)
+
+#c:is_snowy
+- minecraft:frozen_ocean (from Porting Lib Tags)
+- minecraft:frozen_river (from Porting Lib Tags)
+- minecraft:snowy_plains (from Porting Lib Tags)
+- minecraft:snowy_beach (from Porting Lib Tags)
+- minecraft:snowy_taiga (from Porting Lib Tags)
+- minecraft:grove (from Porting Lib Tags)
+- minecraft:snowy_slopes (from Porting Lib Tags)
+- minecraft:jagged_peaks (from Porting Lib Tags)
+- minecraft:frozen_peaks (from Porting Lib Tags)
+- minecraft:ice_spikes (from Porting Lib Tags)
+
+#c:tree_deciduous
+- minecraft:forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:flower_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:birch_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:dark_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:old_growth_birch_forest (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:more_frequent_drowned_spawns
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/village_desert
+- minecraft:desert (from Default)
+
+#c:tree_savanna
+- #c:savanna? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:is_forest
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:grove (from Default)
+
+#c:icy
+- minecraft:frozen_peaks (from Quilted Fabric Convention Tags API (v1))
+- minecraft:ice_spikes (from Quilted Fabric Convention Tags API (v1))
+
+#supplementaries:has_way_signs
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#c:stony_shores
+- minecraft:stony_shore (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/plains
+- minecraft:plains (from Apoli)
+- minecraft:sunflower_plains (from Apoli)
+
+#minecraft:allows_tropical_fish_spawns_at_any_height
+- minecraft:lush_caves (from Default)
+
+#c:is_dry/overworld
+- minecraft:desert (from Porting Lib Tags)
+- minecraft:badlands (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+- minecraft:windswept_savanna (from Porting Lib Tags)
+- minecraft:eroded_badlands (from Porting Lib Tags)
+
+#immersive_weathering:has_lakebed
+- #c:mesa? (from Immersive Weathering)
+- #c:badlands? (from Immersive Weathering)
+- minecraft:badlands (from Immersive Weathering)
+- minecraft:eroded_badlands (from Immersive Weathering)
+- minecraft:wooded_badlands (from Immersive Weathering)
+- minecraft:desert (from Immersive Weathering)
+
+#supplementaries:has_basalt_ash
+- minecraft:basalt_deltas (from Supplementaries Generated Pack)
+
+#minecraft:polar_bears_spawn_on_alternate_blocks
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+
+#minecraft:has_structure/village_plains
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+
+#c:is_dry/nether
+- minecraft:nether_wastes (from Porting Lib Tags)
+- minecraft:soul_sand_valley (from Porting Lib Tags)
+- minecraft:crimson_forest (from Porting Lib Tags)
+- minecraft:warped_forest (from Porting Lib Tags)
+- minecraft:basalt_deltas (from Porting Lib Tags)
+
+#spelunkery:has_desert_noise
+- minecraft:desert (from Spelunkery)
+
+#c:ocean
+- #c:deep_ocean? (from Quilted Fabric Convention Tags API (v1))
+- #c:shallow_ocean? (from Quilted Fabric Convention Tags API (v1))
+- #minecraft:is_ocean? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:has_structure/swamp_hut
+- minecraft:swamp (from Default)
+
+#c:is_dry
+- #c:is_dry/overworld (from Porting Lib Tags)
+- #c:is_dry/nether (from Porting Lib Tags)
+- #c:is_dry/end (from Porting Lib Tags)
+
+#c:is_cold
+- #c:is_cold/overworld (from Porting Lib Tags)
+- #c:is_cold/nether? (from Porting Lib Tags)
+- #c:is_cold/end (from Porting Lib Tags)
+
+#apoli:category/mountain
+- #minecraft:is_mountain (from Apoli)
+
+#minecraft:has_structure/ruined_portal_nether
+- #minecraft:is_nether (from Default)
+
+#minecraft:only_allows_snow_and_gold_rabbits
+- minecraft:desert (from Default)
+
+#minecraft:stronghold_biased_to
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:desert (from Default)
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:meadow (from Default)
+- minecraft:grove (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+
+#spelunkery:has_sculk_noise
+- minecraft:deep_dark (from Spelunkery)
+
+#c:is_peak
+- minecraft:jagged_peaks (from Porting Lib Tags)
+- minecraft:frozen_peaks (from Porting Lib Tags)
+- minecraft:stony_peaks (from Porting Lib Tags)
+
+#minecraft:is_beach
+- minecraft:beach (from Default)
+- minecraft:snowy_beach (from Default)
+
+#minecraft:has_structure/ruined_portal_standard
+- #minecraft:is_beach (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+
+#minecraft:has_structure/pillager_outpost
+- minecraft:desert (from Default)
+- minecraft:plains (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:taiga (from Default)
+- #minecraft:is_mountain (from Default)
+- minecraft:grove (from Default)
+
+#c:birch_forest
+- minecraft:birch_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:old_growth_birch_forest (from Quilted Fabric Convention Tags API (v1))
+
+#immersive_weathering:underground_desert
+- #c:desert? (from Immersive Weathering)
+- minecraft:desert (from Immersive Weathering)
+
+#c:is_dense/overworld
+- minecraft:jungle (from Porting Lib Tags)
+- minecraft:dark_forest (from Porting Lib Tags)
+- minecraft:old_growth_birch_forest (from Porting Lib Tags)
+- minecraft:old_growth_spruce_taiga (from Porting Lib Tags)
+
+#minecraft:is_mountain
+- minecraft:meadow (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+
+#c:plains
+- minecraft:sunflower_plains (from Quilted Fabric Convention Tags API (v1))
+- minecraft:plains (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/none
+- minecraft:the_void (from Apoli)
+
+#minecraft:is_badlands
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+
+#c:climate_temperate
+- minecraft:forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:sunflower_plains (from Quilted Fabric Convention Tags API (v1))
+- minecraft:swamp (from Quilted Fabric Convention Tags API (v1))
+- minecraft:stony_shore (from Quilted Fabric Convention Tags API (v1))
+- minecraft:dark_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:birch_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:old_growth_birch_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:meadow (from Quilted Fabric Convention Tags API (v1))
+- minecraft:plains (from Quilted Fabric Convention Tags API (v1))
+
+#c:aquatic
+- #c:ocean? (from Quilted Fabric Convention Tags API (v1))
+- #c:river? (from Quilted Fabric Convention Tags API (v1))
+
+#c:aquatic_icy
+- minecraft:frozen_river (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_frozen_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:frozen_ocean (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:has_structure/nether_fossil
+- minecraft:soul_sand_valley (from Default)
+
+#beautify:has_structure/botanist_house_savanna_biomes
+
+#c:is_sparse
+- #c:is_sparse/overworld (from Porting Lib Tags)
+- #c:is_sparse/nether? (from Porting Lib Tags)
+- #c:is_sparse/end? (from Porting Lib Tags)
+
+#c:vegetation_sparse
+- #c:savanna? (from Quilted Fabric Convention Tags API (v1))
+- #c:desert? (from Quilted Fabric Convention Tags API (v1))
+- #c:dead? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:lush_caves (from Quilted Fabric Convention Tags API (v1))
+- #c:wasteland? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:has_structure/end_city
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+
+#c:beach
+- #minecraft:is_beach? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:stony_shore (from Quilted Fabric Convention Tags API (v1))
+
+#c:extreme_hills
+- minecraft:windswept_gravelly_hills (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_hills (from Quilted Fabric Convention Tags API (v1))
+
+#c:is_swamp
+- minecraft:swamp (from Porting Lib Tags)
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+
+#minecraft:has_structure/bastion_remnant
+- minecraft:crimson_forest (from Default)
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:warped_forest (from Default)
+
+#c:is_dry/end
+- minecraft:the_end (from Porting Lib Tags)
+- minecraft:small_end_islands (from Porting Lib Tags)
+- minecraft:end_midlands (from Porting Lib Tags)
+- minecraft:end_highlands (from Porting Lib Tags)
+- minecraft:end_barrens (from Porting Lib Tags)
+
+#minecraft:has_structure/ruined_portal_mountain
+- #minecraft:is_badlands (from Default)
+- #minecraft:is_hill (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:stony_shore (from Default)
+- #minecraft:is_mountain (from Default)
+
+#c:climate_wet
+- #c:aquatic? (from Quilted Fabric Convention Tags API (v1))
+- #c:swamp? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:lush_caves (from Quilted Fabric Convention Tags API (v1))
+- #c:jungle? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:water_on_map_outlines
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#minecraft:is_river
+- minecraft:river (from Default)
+- minecraft:frozen_river (from Default)
+
+#c:nether_forests
+- minecraft:warped_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:crimson_forest (from Quilted Fabric Convention Tags API (v1))
+
+#beautify:has_structure/botanist_house_snowy_biomes
+
+#c:in_nether
+- #minecraft:is_nether? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:crimson_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:warped_forest (from Quilted Fabric Convention Tags API (v1))
+- minecraft:nether_wastes (from Quilted Fabric Convention Tags API (v1))
+- minecraft:soul_sand_valley (from Quilted Fabric Convention Tags API (v1))
+- minecraft:basalt_deltas (from Quilted Fabric Convention Tags API (v1))
+
+#c:tree_coniferous
+- minecraft:grove (from Quilted Fabric Convention Tags API (v1))
+- #c:taiga? (from Quilted Fabric Convention Tags API (v1))
+
+#c:savanna
+- #minecraft:is_savanna? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:savanna_plateau (from Quilted Fabric Convention Tags API (v1))
+- minecraft:windswept_savanna (from Quilted Fabric Convention Tags API (v1))
+- minecraft:savanna (from Quilted Fabric Convention Tags API (v1))
+
+#c:is_wet/overworld
+- minecraft:swamp (from Porting Lib Tags)
+- minecraft:jungle (from Porting Lib Tags)
+- minecraft:sparse_jungle (from Porting Lib Tags)
+- minecraft:beach (from Porting Lib Tags)
+- minecraft:bamboo_jungle (from Porting Lib Tags)
+- minecraft:lush_caves (from Porting Lib Tags)
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+
+#c:caves
+- minecraft:deep_dark (from Quilted Fabric Convention Tags API (v1))
+- minecraft:dripstone_caves (from Quilted Fabric Convention Tags API (v1))
+- minecraft:lush_caves (from Quilted Fabric Convention Tags API (v1))
+
+#c:floral
+- minecraft:sunflower_plains (from Quilted Fabric Convention Tags API (v1))
+- minecraft:flower_forest (from Quilted Fabric Convention Tags API (v1))
+
+#spelunkery:has_stone_noise
+- minecraft:mushroom_fields (from Spelunkery)
+- minecraft:stony_shore (from Spelunkery)
+- minecraft:swamp (from Spelunkery)
+- minecraft:mangrove_swamp (from Spelunkery)
+- minecraft:snowy_slopes (from Spelunkery)
+- minecraft:snowy_plains (from Spelunkery)
+- minecraft:snowy_beach (from Spelunkery)
+- minecraft:windswept_gravelly_hills (from Spelunkery)
+- minecraft:grove (from Spelunkery)
+- minecraft:windswept_hills (from Spelunkery)
+- minecraft:snowy_taiga (from Spelunkery)
+- minecraft:windswept_forest (from Spelunkery)
+- minecraft:taiga (from Spelunkery)
+- minecraft:plains (from Spelunkery)
+- minecraft:meadow (from Spelunkery)
+- minecraft:beach (from Spelunkery)
+- minecraft:forest (from Spelunkery)
+- minecraft:old_growth_spruce_taiga (from Spelunkery)
+- minecraft:flower_forest (from Spelunkery)
+- minecraft:birch_forest (from Spelunkery)
+- minecraft:dark_forest (from Spelunkery)
+- minecraft:savanna_plateau (from Spelunkery)
+- minecraft:savanna (from Spelunkery)
+- minecraft:jungle (from Spelunkery)
+- minecraft:badlands (from Spelunkery)
+- minecraft:wooded_badlands (from Spelunkery)
+- minecraft:jagged_peaks (from Spelunkery)
+- minecraft:stony_peaks (from Spelunkery)
+- minecraft:frozen_river (from Spelunkery)
+- minecraft:river (from Spelunkery)
+- minecraft:ice_spikes (from Spelunkery)
+- minecraft:old_growth_pine_taiga (from Spelunkery)
+- minecraft:sunflower_plains (from Spelunkery)
+- minecraft:old_growth_birch_forest (from Spelunkery)
+- minecraft:sparse_jungle (from Spelunkery)
+- minecraft:bamboo_jungle (from Spelunkery)
+- minecraft:eroded_badlands (from Spelunkery)
+- minecraft:windswept_savanna (from Spelunkery)
+- minecraft:frozen_peaks (from Spelunkery)
+
+#apoli:category/icy
+- minecraft:ice_spikes (from Apoli)
+- minecraft:snowy_plains (from Apoli)
+
+#minecraft:has_structure/buried_treasure
+- #minecraft:is_beach (from Default)
+
+#c:is_mountain
+- #c:is_peak (from Porting Lib Tags)
+- #c:is_slope (from Porting Lib Tags)
+
+#twigs:spawns_twig
+- #minecraft:is_forest (from Twigs)
+- #minecraft:is_taiga (from Twigs)
+- minecraft:swamp (from Twigs)
+
+#c:badlands
+- #c:mesa? (from Quilted Fabric Convention Tags API (v1))
+- #minecraft:is_badlands? (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/taiga
+- #minecraft:is_taiga (from Apoli)
+
+#apoli:category/mesa
+- #minecraft:is_badlands (from Apoli)
+
+#c:underground
+- #c:caves? (from Quilted Fabric Convention Tags API (v1))
+
+#c:is_slope
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+- minecraft:meadow (from Porting Lib Tags)
+- minecraft:grove (from Porting Lib Tags)
+- minecraft:snowy_slopes (from Porting Lib Tags)
+
+#minecraft:is_savanna
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+
+#c:jungle
+- #minecraft:is_jungle? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:has_structure/igloo
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_slopes (from Default)
+
+#c:wasteland
+
+#minecraft:has_structure/shipwreck_beached
+- #minecraft:is_beach (from Default)
+
+#minecraft:allows_surface_slime_spawns
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#c:deep_ocean
+- minecraft:deep_frozen_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_lukewarm_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_cold_ocean (from Quilted Fabric Convention Tags API (v1))
+- minecraft:deep_ocean (from Quilted Fabric Convention Tags API (v1))
+
+#c:is_dense
+- #c:is_dense/overworld (from Porting Lib Tags)
+- #c:is_dense/nether? (from Porting Lib Tags)
+- #c:is_dense/end? (from Porting Lib Tags)
+
+#minecraft:required_ocean_monument_surrounding
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#apoli:category/extreme_hills
+- #minecraft:is_hill (from Apoli)
+
+#c:is_cold/end
+- minecraft:the_end (from Porting Lib Tags)
+- minecraft:small_end_islands (from Porting Lib Tags)
+- minecraft:end_midlands (from Porting Lib Tags)
+- minecraft:end_highlands (from Porting Lib Tags)
+- minecraft:end_barrens (from Porting Lib Tags)
+
+#minecraft:has_structure/ocean_monument
+- #minecraft:is_deep_ocean (from Default)
+
+#spelunkery:has_nether_noise
+- #minecraft:is_nether (from Spelunkery)
+
+#c:is_wet
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+- #c:is_wet/overworld (from Porting Lib Tags)
+- #c:is_wet/nether? (from Porting Lib Tags)
+- #c:is_wet/end? (from Porting Lib Tags)
+
+#minecraft:has_structure/ruined_portal_jungle
+- #minecraft:is_jungle (from Default)
+
+#c:climate_cold
+- minecraft:snowy_plains (from Quilted Fabric Convention Tags API (v1))
+- minecraft:grove (from Quilted Fabric Convention Tags API (v1))
+- minecraft:jagged_peaks (from Quilted Fabric Convention Tags API (v1))
+- minecraft:taiga (from Quilted Fabric Convention Tags API (v1))
+- minecraft:snowy_taiga (from Quilted Fabric Convention Tags API (v1))
+- minecraft:old_growth_spruce_taiga (from Quilted Fabric Convention Tags API (v1))
+- minecraft:old_growth_pine_taiga (from Quilted Fabric Convention Tags API (v1))
+- #c:icy? (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/underground
+- minecraft:dripstone_caves (from Apoli)
+- minecraft:lush_caves (from Apoli)
+
+#minecraft:plays_underwater_music
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/desert_pyramid
+- minecraft:desert (from Default)
+
+#apoli:category/ocean
+- #minecraft:is_ocean (from Apoli)
+
+#immersive_weathering:wet
+- #forge:is_wet? (from Immersive Weathering)
+- #c:climate_wet? (from Immersive Weathering)
+- minecraft:swamp (from Immersive Weathering)
+- minecraft:jungle (from Immersive Weathering)
+- minecraft:sparse_jungle (from Immersive Weathering)
+
+#immersive_weathering:has_moss
+- minecraft:lush_caves (from Immersive Weathering)
+
+#c:in_the_end
+- #minecraft:is_end? (from Quilted Fabric Convention Tags API (v1))
+- minecraft:end_barrens (from Quilted Fabric Convention Tags API (v1))
+- minecraft:end_midlands (from Quilted Fabric Convention Tags API (v1))
+- minecraft:end_highlands (from Quilted Fabric Convention Tags API (v1))
+- minecraft:the_end (from Quilted Fabric Convention Tags API (v1))
+- minecraft:small_end_islands (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:has_structure/woodland_mansion
+- minecraft:dark_forest (from Default)
+
+#c:mountain_peak
+- minecraft:frozen_peaks (from Quilted Fabric Convention Tags API (v1))
+- minecraft:jagged_peaks (from Quilted Fabric Convention Tags API (v1))
+- minecraft:stony_peaks (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:has_structure/ocean_ruin_warm
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#c:is_lush
+- minecraft:lush_caves (from Porting Lib Tags)
+
+#c:flower_forests
+- minecraft:flower_forest (from Quilted Fabric Convention Tags API (v1))
+
+#c:is_spooky
+- minecraft:dark_forest (from Porting Lib Tags)
+- minecraft:deep_dark (from Porting Lib Tags)
+
+#c:is_void
+- minecraft:the_void (from Porting Lib Tags)
+
+#minecraft:is_overworld
+- minecraft:mushroom_fields (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_beach (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:grove (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:taiga (from Default)
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- minecraft:beach (from Default)
+- minecraft:forest (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:desert (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:river (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:deep_dark (from Default)
+
+#minecraft:has_structure/village_savanna
+- minecraft:savanna (from Default)
+
+#spelunkery:has_salt_noise
+- #minecraft:is_mountain (from Spelunkery)
+
+#minecraft:without_patrol_spawns
+- minecraft:mushroom_fields (from Default)
+
+#c:mountain_slope
+- minecraft:snowy_slopes (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:has_structure/village_taiga
+- minecraft:taiga (from Default)
+
+#apoli:category/mushroom
+- minecraft:mushroom_fields (from Apoli)
+
+#c:void
+- minecraft:the_void (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:has_closer_water_fog
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#twigs:bloodstone_generates
+- minecraft:crimson_forest (from Twigs)
+- minecraft:warped_forest (from Twigs)
+- minecraft:basalt_deltas (from Twigs)
+
+#supplementaries:has_wild_flax
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#minecraft:without_wandering_trader_spawns
+- minecraft:the_void (from Default)
+
+#minecraft:has_structure/ruined_portal_desert
+- minecraft:desert (from Default)
+
+#minecraft:has_structure/ruined_portal_swamp
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#apoli:category/river
+- #minecraft:is_river (from Apoli)
+
+#minecraft:spawns_cold_variant_frogs
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:grove (from Default)
+- minecraft:deep_dark (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_beach (from Default)
+- #minecraft:is_end (from Default)
+
+#twigs:has_structure/bloodstone_obelisk
+- minecraft:nether_wastes (from Twigs)
+- minecraft:crimson_forest (from Twigs)
+
+#c:is_mushroom
+- minecraft:mushroom_fields (from Porting Lib Tags)
+
+#minecraft:is_end
+- minecraft:the_end (from Default)
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- minecraft:small_end_islands (from Default)
+- minecraft:end_barrens (from Default)
+
+#c:climate_dry
+- #c:in_nether? (from Quilted Fabric Convention Tags API (v1))
+- #c:badlands? (from Quilted Fabric Convention Tags API (v1))
+- #c:desert? (from Quilted Fabric Convention Tags API (v1))
+- #c:savanna? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:without_zombie_sieges
+- minecraft:mushroom_fields (from Default)
+
+#c:mesa
+- minecraft:wooded_badlands (from Quilted Fabric Convention Tags API (v1))
+- minecraft:eroded_badlands (from Quilted Fabric Convention Tags API (v1))
+- minecraft:badlands (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/the_end
+- #minecraft:is_end (from Apoli)
+
+#minecraft:is_taiga
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+
+#minecraft:spawns_warm_variant_frogs
+- minecraft:desert (from Default)
+- minecraft:warm_ocean (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_savanna (from Default)
+- #minecraft:is_nether (from Default)
+- #minecraft:is_badlands (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#minecraft:mineshaft_blocking
+- minecraft:deep_dark (from Default)
+
+#minecraft:has_structure/village_snowy
+- minecraft:snowy_plains (from Default)
+
+#c:snowy
+- minecraft:snowy_beach (from Quilted Fabric Convention Tags API (v1))
+- minecraft:snowy_plains (from Quilted Fabric Convention Tags API (v1))
+- minecraft:snowy_slopes (from Quilted Fabric Convention Tags API (v1))
+- minecraft:snowy_taiga (from Quilted Fabric Convention Tags API (v1))
+
+#c:taiga
+- #minecraft:is_taiga? (from Quilted Fabric Convention Tags API (v1))
+
+#apoli:category/desert
+- minecraft:desert (from Apoli)
+
+#spelunkery:has_dirt_noise
+- minecraft:plains (from Spelunkery)
+- minecraft:forest (from Spelunkery)
+- minecraft:mushroom_fields (from Spelunkery)
+- minecraft:swamp (from Spelunkery)
+- minecraft:mangrove_swamp (from Spelunkery)
+- minecraft:snowy_slopes (from Spelunkery)
+- minecraft:snowy_plains (from Spelunkery)
+- minecraft:grove (from Spelunkery)
+- minecraft:snowy_taiga (from Spelunkery)
+- minecraft:windswept_forest (from Spelunkery)
+- minecraft:taiga (from Spelunkery)
+- minecraft:meadow (from Spelunkery)
+- minecraft:old_growth_spruce_taiga (from Spelunkery)
+- minecraft:flower_forest (from Spelunkery)
+- minecraft:birch_forest (from Spelunkery)
+- minecraft:dark_forest (from Spelunkery)
+- minecraft:savanna_plateau (from Spelunkery)
+- minecraft:savanna (from Spelunkery)
+- minecraft:jungle (from Spelunkery)
+- minecraft:ice_spikes (from Spelunkery)
+- minecraft:old_growth_pine_taiga (from Spelunkery)
+- minecraft:sunflower_plains (from Spelunkery)
+- minecraft:old_growth_birch_forest (from Spelunkery)
+- minecraft:sparse_jungle (from Spelunkery)
+- minecraft:bamboo_jungle (from Spelunkery)
+- minecraft:windswept_savanna (from Spelunkery)
+
+#c:is_underground
+- minecraft:lush_caves (from Porting Lib Tags)
+- minecraft:dripstone_caves (from Porting Lib Tags)
+- minecraft:deep_dark (from Porting Lib Tags)
+
+#apoli:category/forest
+- #minecraft:is_forest (from Apoli)
+
+#c:is_sparse/overworld
+- minecraft:windswept_forest (from Porting Lib Tags)
+- minecraft:savanna (from Porting Lib Tags)
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+- minecraft:snowy_slopes (from Porting Lib Tags)
+- minecraft:jagged_peaks (from Porting Lib Tags)
+- minecraft:frozen_peaks (from Porting Lib Tags)
+- minecraft:windswept_gravelly_hills (from Porting Lib Tags)
+- minecraft:windswept_savanna (from Porting Lib Tags)
+- minecraft:eroded_badlands (from Porting Lib Tags)
+- minecraft:dripstone_caves (from Porting Lib Tags)
+
+#minecraft:reduce_water_ambient_spawns
+- #minecraft:is_river (from Default)

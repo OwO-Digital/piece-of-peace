@@ -1,0 +1,14 @@
+name = "FogLooksGoodNow"
+filename = "FogLooksGoodNow-1.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/buO8cPKe/FogLooksGoodNow-1.1.2.jar"
+hash-format = "sha512"
+hash = "530a160afa4daefa89078239a7e02141a1398adfa22e069e8461e00c28bc073b1702e526e96e1b8283a9bf17dfde740da23c2520829198c2f0cdba6648284a75"
+
+[update]
+[update.modrinth]
+mod-id = "WuGVWUF2"
+version = "buO8cPKe"

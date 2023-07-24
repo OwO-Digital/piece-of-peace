@@ -1,0 +1,14 @@
+name = "Tinkerer's Smithing"
+filename = "tinkerers_smithing-2.2.11+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/RhVpNN5O/versions/1EK0NJlq/tinkerers_smithing-2.2.11%2B1.19.jar"
+hash-format = "sha512"
+hash = "2f7c6ff4d3fdaf07905ad73b3d3d099dba993c5d8d30b16331cee5eef706c9f63688022b6a0f63d2d83f9e1a839e0fe2b4407c3f5b57c2d7189a9a5c7d83a1b2"
+
+[update]
+[update.modrinth]
+mod-id = "RhVpNN5O"
+version = "1EK0NJlq"

@@ -1,0 +1,165 @@
+{
+  "performVersionCheck": true,
+  "origins": {
+    "origins-classes:nitwit": {
+      "enabled": true
+    },
+    "origins:enderian": {
+      "enabled": true
+    },
+    "tinkerer:demishort": {
+      "enabled": true,
+      "tinkerer:demishort": true
+    },
+    "origins:feline": {
+      "enabled": true
+    },
+    "origins:elytrian": {
+      "enabled": true
+    },
+    "tinkerer:tallest": {
+      "enabled": true,
+      "tinkerer:tallest": true
+    },
+    "origins_minus:voidthing": {
+      "enabled": true,
+      "origins_minus:blink": true,
+      "origins_minus:reach": true,
+      "origins_minus:wraparound": true,
+      "origins:ender_particles": true
+    },
+    "origins_minus:avian": {
+      "enabled": true,
+      "origins_minus:flap": true,
+      "origins_minus:glide": true,
+      "origins_minus:like_air": true
+    },
+    "origins:phantom": {
+      "enabled": true
+    },
+    "tinkerer:demitall": {
+      "enabled": true,
+      "tinkerer:demitall": true
+    },
+    "origins:blazeborn": {
+      "enabled": true
+    },
+    "origins:avian": {
+      "enabled": true
+    },
+    "origins_minus:wildling": {
+      "enabled": true,
+      "origins_minus:energetic": true,
+      "origins_minus:bound": true,
+      "origins_minus:fall_immunity": true,
+      "origins_minus:bounce": true
+    },
+    "tinkerer:orcish": {
+      "enabled": true,
+      "tinkerer:orcish": true
+    },
+    "tinkerer:short": {
+      "enabled": true,
+      "tinkerer:short": true
+    },
+    "tinkerer:sized": {
+      "enabled": true,
+      "tinkerer:sized": true
+    },
+    "tinkerer:impish": {
+      "enabled": true,
+      "tinkerer:impish": true
+    },
+    "origins:human": {
+      "enabled": true
+    },
+    "origins_minus:mer": {
+      "enabled": true,
+      "origins_minus:water_breathing": true,
+      "origins_minus:swim_speed": true,
+      "origins_minus:water_vision": true,
+      "origins_minus:aqua_affinity": true,
+      "origins_minus:harvest_seagrass": true,
+      "origins_minus:edible_seagrass": true,
+      "origins:like_water": true
+    },
+    "origins_minus:dryad": {
+      "enabled": true,
+      "origins_minus:sunlight": true,
+      "origins_minus:no_hunger": true,
+      "origins_minus:vine_whip": true,
+      "origins_minus:bioluminescence": true,
+      "origins_minus:leaf_phasing": true,
+      "origins_minus:plant_fall_resistance": true
+    },
+    "origins:shulk": {
+      "enabled": true
+    },
+    "origins_minus:sanguine": {
+      "enabled": true,
+      "origins_minus:blood": true,
+      "origins_minus:no_hunger": true,
+      "origins_minus:frenzy": true,
+      "origins_minus:nightstalker": true
+    },
+    "tinkerer:taller": {
+      "enabled": true,
+      "tinkerer:taller": true
+    },
+    "origins:merling": {
+      "enabled": true
+    },
+    "tinkerer:oversize2": {
+      "enabled": true,
+      "tinkerer:oversize2": true
+    },
+    "tinkerer:oversize1": {
+      "enabled": true,
+      "tinkerer:oversize1": true
+    },
+    "origins:arachnid": {
+      "enabled": true
+    },
+    "tinkerer:oversize3": {
+      "enabled": true,
+      "tinkerer:oversize3": true
+    },
+    "origins_minus:steadfast": {
+      "enabled": true,
+      "origins_minus:brace": true,
+      "origins_minus:rescue": true
+    },
+    "tinkerer:semishort": {
+      "enabled": true,
+      "tinkerer:semishort": true
+    },
+    "origins_minus:hellspawn": {
+      "enabled": true,
+      "origins_minus:fire_immunity": true,
+      "origins_minus:lava_vision": true,
+      "origins_minus:lava_swimming": true,
+      "origins_minus:fire_punch": true,
+      "origins_minus:lava_fall_immunity": true,
+      "origins:flame_particles": true
+    },
+    "tinkerer:hemidemishort": {
+      "enabled": true,
+      "tinkerer:hemidemishort": true
+    },
+    "tinkerer:unaffected": {
+      "enabled": true
+    },
+    "origins_minus:weaver": {
+      "enabled": true,
+      "origins_minus:echolocation": true,
+      "origins_minus:rappel": true,
+      "origins_minus:suffocation_immunity": true,
+      "origins_minus:web_affinity": true,
+      "origins:master_of_webs_no_slowdown": true
+    },
+    "tinkerer:tall": {
+      "enabled": true,
+      "tinkerer:tall": true
+    }
+  }
+}

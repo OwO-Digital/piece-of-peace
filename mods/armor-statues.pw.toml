@@ -1,0 +1,14 @@
+name = "Armor Statues"
+filename = "ArmorStatues-v4.0.4-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/bbGCtEvb/versions/XtGOl7FU/ArmorStatues-v4.0.4-1.19.2-Fabric.jar"
+hash-format = "sha512"
+hash = "97b93e2c0e312cd9e19b9f42e27b551daf6e21acbc6ca8fc57899da8ba73d73ef58f2ab619f8cf4bfe7d49fae7c30ddd17ecd17013930768fe3da5ad8f458f1e"
+
+[update]
+[update.modrinth]
+mod-id = "bbGCtEvb"
+version = "XtGOl7FU"

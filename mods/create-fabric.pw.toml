@@ -1,0 +1,14 @@
+name = "Create Fabric"
+filename = "create-fabric-0.5.1-b-build.1089+mc1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/wKEEi1qX/create-fabric-0.5.1-b-build.1089%2Bmc1.19.2.jar"
+hash-format = "sha512"
+hash = "d42a59b74394f818189b834071621d26d7a35a609e5341c686aa0567a51385e2e9cde9adb41ea46b45fc37a0f79f0d8a967763af02d29855a61effbfac019bba"
+
+[update]
+[update.modrinth]
+mod-id = "Xbc0uyRg"
+version = "wKEEi1qX"

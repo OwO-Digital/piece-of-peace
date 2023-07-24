@@ -1,0 +1,14 @@
+name = "Soul Fire'd"
+filename = "soulfired-1.19.2-3.2.0.0-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/uDeFJPmi/soulfired-1.19.2-3.2.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "8fac0a30b6e16ce59fda98ff074902022db9c88a75971027e3fd604a4332bda7f5086fa3c37b2e3df805d287c96f16abf25761dfa15970da875baef076444e6f"
+
+[update]
+[update.modrinth]
+mod-id = "d6MhxwRo"
+version = "uDeFJPmi"

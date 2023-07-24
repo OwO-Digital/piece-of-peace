@@ -1,0 +1,86 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"0": "kubejs:block/table/top",
+		"1": "kubejs:block/table/side",
+		"2": "kubejs:block/table/bottom",
+		"particle": "kubejs:block/table/top"
+	},
+	"elements": [
+		{
+			"name": "Top",
+			"from": [0, 12, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 4], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 4], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 4], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "SW",
+			"from": [0, 0, 12],
+			"to": [4, 12, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"east": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"south": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"west": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"up": {"uv": [0, 4, 4, 8], "texture": "#missing", "cullface": "up"},
+				"down": {"uv": [0, 12, 4, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "NW",
+			"from": [0, 0, 0],
+			"to": [4, 12, 4],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"east": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"south": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"west": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"up": {"uv": [0, 4, 4, 8], "texture": "#missing", "cullface": "up"},
+				"down": {"uv": [0, 12, 4, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "SE",
+			"from": [12, 0, 12],
+			"to": [16, 12, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"east": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"south": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"west": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"up": {"uv": [0, 4, 4, 8], "texture": "#missing", "cullface": "up"},
+				"down": {"uv": [0, 12, 4, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "NE",
+			"from": [12, 0, 0],
+			"to": [16, 12, 4],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"east": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"south": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"west": {"uv": [0, 4, 4, 16], "texture": "#1"},
+				"up": {"uv": [0, 4, 4, 8], "texture": "#missing", "cullface": "up"},
+				"down": {"uv": [0, 12, 4, 16], "texture": "#2"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "Legs",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [1, 2, 3, 4]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+name = "Universal Enchants"
+filename = "UniversalEnchants-v4.2.15-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/DT56YDir/versions/JEm0IPnv/UniversalEnchants-v4.2.15-1.19.2-Fabric.jar"
+hash-format = "sha512"
+hash = "40cb8d18cc40b897866586b7ec3a1ccba0b28767264fdff94b9bb6c0f60cf50502c460e679626d3dec88fb966304e017751de293b27f78660557823dcead48c0"
+
+[update]
+[update.modrinth]
+mod-id = "DT56YDir"
+version = "JEm0IPnv"

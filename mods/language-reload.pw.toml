@@ -1,0 +1,14 @@
+name = "Language Reload"
+filename = "language-reload-1.5.8+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/Lpzeqtz8/language-reload-1.5.8%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "3cb873b4ca9d3a356390bdac6258615041f534eb36512b8d0950b59c8374074161918e4ea794531f787acd421bd62aee14770aa10f9d61ed67fec9e0cbcf5667"
+
+[update]
+[update.modrinth]
+mod-id = "uLbm7CG6"
+version = "Lpzeqtz8"

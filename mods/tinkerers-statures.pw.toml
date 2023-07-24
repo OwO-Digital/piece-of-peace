@@ -1,0 +1,14 @@
+name = "Tinkerer's Statures"
+filename = "tinkerers-statures-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Lq0ZLcTa/versions/1.0.1/tinkerers-statures-1.0.1.jar"
+hash-format = "sha512"
+hash = "6c9d716c51a04985ebb273fa835815c69ded8b4431ef163df0a64bedea53b4736e35700f27245e51294ef6d8558b7282c67bd7e7974bb1a8d33f428a0a7b454f"
+
+[update]
+[update.modrinth]
+mod-id = "Lq0ZLcTa"
+version = "RlNUQ6gH"

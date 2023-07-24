@@ -1,0 +1,13 @@
+name = "Eating Animations+"
+filename = "eatinganimations+ 1.10.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7f3527aa06000c25ea92b40f3c1689f149cdda3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4099588
+project-id = 584920

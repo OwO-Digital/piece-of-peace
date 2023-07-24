@@ -1,0 +1,14 @@
+name = "Effective"
+filename = "effective-2.1.1+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pcPXJeZi/versions/oKm6MarD/effective-2.1.1%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "8e6c9af9e5054a775dc75f9f89333f56aaa478a85d6f312f87f541fe7b05b4d48aabc0048938b156f52d5b1316a1201a18e7f4d628e872e8b85b98dd33e2cb11"
+
+[update]
+[update.modrinth]
+mod-id = "pcPXJeZi"
+version = "oKm6MarD"

@@ -1,0 +1,14 @@
+name = "Spelunkery"
+filename = "spelunkery-1.19.2-0.2.2-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/krskFMfA/versions/QWmbcf0E/spelunkery-1.19.2-0.2.2-fabric.jar"
+hash-format = "sha512"
+hash = "65549c4a6be988c0cebc8f71f7d5896d233b9403ea2f8a60efdbaabea66a2691abee1a5177fd4e50f2887baa40b0b3f04552675b9309940586641373ad4cd1cb"
+
+[update]
+[update.modrinth]
+mod-id = "krskFMfA"
+version = "QWmbcf0E"

@@ -1,0 +1,13 @@
+name = "Unique Dark"
+filename = "UniqueDark_1.19.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/mNLZjOpt/UniqueDark_1.19.2.zip"
+hash-format = "sha1"
+hash = "fe6ba7e591f78adbde18490fc294b0fc9e698bfa"
+
+[update]
+[update.modrinth]
+mod-id = "BaY1UdGV"
+version = "mNLZjOpt"

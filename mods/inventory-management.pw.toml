@@ -1,0 +1,14 @@
+name = "Inventory Management"
+filename = "inventorymanagement-1.1.2+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/r4z4a5NO/inventorymanagement-1.1.2%2B1.19.jar"
+hash-format = "sha512"
+hash = "2040fe9bc85244f960bc367aa9e965ebb49cd50356be4d1264c5050f2af364644b26d26eaae24a3f0833a11afd241442d8ba40da469500642230eb15aee94fcc"
+
+[update]
+[update.modrinth]
+mod-id = "F7wXag4i"
+version = "r4z4a5NO"

@@ -1,0 +1,14 @@
+name = "'Dustrial Decor Fabric"
+filename = "dustrial-decor-fabric-0.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3UOoqLkR/versions/0.5.1/dustrial-decor-fabric-0.5.jar"
+hash-format = "sha512"
+hash = "c58631b4b0510fc9aae5091572ae0ba906f294bd9663120f9271ec26b5a9d45bfb8e06cfdd1822e1b6cebf72e4a5a4d4a51bb97422a8bd1133e9a9203b0076ec"
+
+[update]
+[update.modrinth]
+mod-id = "3UOoqLkR"
+version = "4YdVbKN7"

@@ -1,0 +1,14 @@
+name = "Create Slice & Dice"
+filename = "sliceanddice-fabric-2.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/uv6f7FCw/sliceanddice-fabric-2.2.1.jar"
+hash-format = "sha512"
+hash = "1bec6ed287c5def1696c3af0e6751308514430b5cb8d57bb046b82c4358d7a105f53cb54b84df8142d4374a76dd8675d4b193e95ce81fc03b65a7112d5634327"
+
+[update]
+[update.modrinth]
+mod-id = "GmjmRQ0A"
+version = "uv6f7FCw"

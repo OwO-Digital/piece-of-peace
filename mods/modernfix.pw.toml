@@ -1,0 +1,14 @@
+name = "ModernFix"
+filename = "modernfix-fabric-5.2.5+mc1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/GOlEdlgS/modernfix-fabric-5.2.5%2Bmc1.19.2.jar"
+hash-format = "sha512"
+hash = "2b334bae9a388aa0a2bf5246d7c67bc759df155780130c3c140248553358d7386eb2fe0133868a7f37f56cacae0748bb0bb111d767babdfab303a13e7d394dcf"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "GOlEdlgS"

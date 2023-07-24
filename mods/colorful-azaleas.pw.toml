@@ -1,0 +1,14 @@
+name = "Colorful Azaleas"
+filename = "ColorfulAzaleas-fabric-1.19.2-2.3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/HDZ49j5G/versions/HboP1Ba5/ColorfulAzaleas-fabric-1.19.2-2.3.1.jar"
+hash-format = "sha512"
+hash = "d93c2c3a60809349a43f9c8bcf1b7c4f22d84b46da9de75e9eb24e2c3b6a6974f36405081dd2d182eae2657031680e93bed50adef0783b32638b084a4cb4178f"
+
+[update]
+[update.modrinth]
+mod-id = "HDZ49j5G"
+version = "HboP1Ba5"

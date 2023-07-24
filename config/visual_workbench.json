@@ -1,0 +1,4 @@
+{
+	"__comment": "Crafting table blocks to enable Visual Workbench support for.",
+	"values": ["kubejs:crafting_station"]
+}

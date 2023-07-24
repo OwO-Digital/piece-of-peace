@@ -1,0 +1,14 @@
+name = "KubeJS"
+filename = "kubejs-fabric-1902.6.1-build.327.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/taSTLnpE/kubejs-fabric-1902.6.1-build.327.jar"
+hash-format = "sha512"
+hash = "2ebab7a1fac2ea071af58b475c2349b13e8433ccb0436a6feadd86f4c2418924299696c6a41a065a6a066ad1423e3061cc180c76a5c1640822ba2d040f03dec0"
+
+[update]
+[update.modrinth]
+mod-id = "umyGl7zF"
+version = "taSTLnpE"

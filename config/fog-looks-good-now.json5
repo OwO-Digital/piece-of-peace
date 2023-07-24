@@ -1,0 +1,8 @@
+{
+	"biomeFogs": [],
+	"defaultFogStart": 0.6577380952380955,
+	"defaultFogDensity": 1.0,
+	"useCaveFog": true,
+	"caveFogDensity": 0.8,
+	"caveFogColor": 3355443
+}

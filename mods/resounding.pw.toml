@@ -1,0 +1,14 @@
+name = "Resounding"
+filename = "resounding-1.0.0-bc.19.x.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UwbKhrqq/versions/1.0.0-bc.19/resounding-1.0.0-bc.19.x.jar"
+hash-format = "sha512"
+hash = "e3817ed78a6a9779fd60ae474ffe45246db2220f45066110eae60d79047032c0b72ab5599718a713c24b996cee8ccaefdf6a1f97ccd6fdc14470b31294e4b24a"
+
+[update]
+[update.modrinth]
+mod-id = "UwbKhrqq"
+version = "kySgIhV2"

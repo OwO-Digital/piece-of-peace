@@ -1,0 +1,83 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 19, 2023, 11:20:37 PM
+
+#c:ink
+- create_enchantment_industry:flowing_ink (from Create Enchantment Industry)
+- create_enchantment_industry:ink (from Create Enchantment Industry)
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- create:flowing_honey (from Create)
+- create:honey (from Create)
+- create:flowing_chocolate (from Create)
+- create:chocolate (from Create)
+- milk:flowing_milk? (from Milk Lib)
+- milk:still_milk? (from Milk Lib)
+- spelunkery:portal_fluid (from Spelunkery)
+- spelunkery:flowing_portal_fluid (from Spelunkery)
+
+#c:milk
+- milk:flowing_milk? (from Milk Lib)
+- milk:still_milk? (from Milk Lib)
+
+#c:tea
+- create:flowing_tea (from Create)
+- create:tea (from Create)
+
+#sliceanddice:moisturizing
+- minecraft:water (from Create Slice & Dice)
+
+#c:water
+- #minecraft:water? (from Quilted Fabric Convention Tags API (v1))
+
+#spelunkery:portal_fluid
+- spelunkery:portal_fluid (from Spelunkery)
+- spelunkery:flowing_portal_fluid (from Spelunkery)
+
+#c:lava
+- #minecraft:lava? (from Quilted Fabric Convention Tags API (v1))
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#create:diving_fluids
+- #minecraft:water (from Create)
+
+#create_enchantment_industry:printer_input
+- create_enchantment_industry:flowing_experience (from Create Enchantment Industry)
+- create_enchantment_industry:experience (from Create Enchantment Industry)
+- create_enchantment_industry:flowing_hyper_experience (from Create Enchantment Industry)
+- create_enchantment_industry:hyper_experience (from Create Enchantment Industry)
+- #c:ink (from Create Enchantment Industry)
+
+#sliceanddice:fertilizer
+- sliceanddice:flowing_fertilizer (from Create Slice & Dice)
+- sliceanddice:fertilizer (from Create Slice & Dice)
+
+#create:bottomless/deny
+
+#c:honey
+- create:flowing_honey (from Create)
+- create:honey (from Create)
+
+#create_enchantment_industry:blaze_enchanter_input
+- create_enchantment_industry:flowing_experience (from Create Enchantment Industry)
+- create_enchantment_industry:experience (from Create Enchantment Industry)
+- create_enchantment_industry:flowing_hyper_experience (from Create Enchantment Industry)
+- create_enchantment_industry:hyper_experience (from Create Enchantment Industry)
+
+#create:bottomless/allow
+- minecraft:water (from Create)
+- minecraft:lava (from Create)
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch (from Decorative Blocks)
+- decorative_blocks:flowing_thatch (from Decorative Blocks)
+
+#c:chocolate
+- create:flowing_chocolate (from Create)
+- create:chocolate (from Create)
+
+#sliceanddice:burning
+- minecraft:lava (from Create Slice & Dice)

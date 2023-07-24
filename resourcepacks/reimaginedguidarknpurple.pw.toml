@@ -1,0 +1,13 @@
+name = "Reimagined GUI (Dark&Purple)"
+filename = "ReimaginedGUI(Dark&Purple) 1.19.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yKr2SDOD/versions/Of4WsnbG/ReimaginedGUI%28Dark%26Purple%29%201.19.2.zip"
+hash-format = "sha1"
+hash = "be5cc8506753c2b35f8546cfa77d39305c69073f"
+
+[update]
+[update.modrinth]
+mod-id = "yKr2SDOD"
+version = "Of4WsnbG"

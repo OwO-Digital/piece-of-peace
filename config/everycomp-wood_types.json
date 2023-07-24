@@ -1,0 +1,62 @@
+{
+  "types": {
+    "wood_type": {
+      "ecologics.flowering_azalea": true,
+      "ecologics.azalea": true,
+      "ecologics.coconut": true,
+      "ecologics.walnut": true,
+      "colorfulazaleas.tecal_azalea": true,
+      "colorfulazaleas.fiss_azalea": true,
+      "colorfulazaleas.roze_azalea": true,
+      "colorfulazaleas.azule_azalea": true,
+      "colorfulazaleas.bright_azalea": true,
+      "colorfulazaleas.walnut_azalea": true,
+      "colorfulazaleas.titanium_azalea": true
+    },
+    "leaves_type": {
+      "colorfulazaleas.blue_azalea": true,
+      "colorfulazaleas.blue_blooming_azalea": true,
+      "colorfulazaleas.blue_flowering_azalea": true,
+      "colorfulazaleas.orange_azalea": true,
+      "colorfulazaleas.orange_blooming_azalea": true,
+      "colorfulazaleas.orange_flowering_azalea": true,
+      "colorfulazaleas.pink_azalea": true,
+      "colorfulazaleas.pink_blooming_azalea": true,
+      "colorfulazaleas.pink_flowering_azalea": true,
+      "colorfulazaleas.purple_azalea": true,
+      "colorfulazaleas.purple_blooming_azalea": true,
+      "colorfulazaleas.purple_flowering_azalea": true,
+      "colorfulazaleas.red_azalea": true,
+      "colorfulazaleas.red_blooming_azalea": true,
+      "colorfulazaleas.red_flowering_azalea": true,
+      "colorfulazaleas.white_azalea": true,
+      "colorfulazaleas.white_blooming_azalea": true,
+      "colorfulazaleas.white_flowering_azalea": true,
+      "colorfulazaleas.yellow_azalea": true,
+      "colorfulazaleas.yellow_blooming_azalea": true,
+      "colorfulazaleas.yellow_flowering_azalea": true,
+      "ecologics.coconut": true,
+      "ecologics.walnut": true
+    }
+  },
+  "entries": {
+    "wood_type": {
+      "twigs.table": true,
+      "another_furniture.table": true,
+      "another_furniture.shelf": true,
+      "decorative_blocks.beam": true,
+      "decorative_blocks.support": true,
+      "create.window": true,
+      "decorative_blocks.seat": true,
+      "decorative_blocks.palisade": true,
+      "farmersdelight.cabinet": true,
+      "another_furniture.drawer": true,
+      "create.window_pane": true,
+      "another_furniture.shutter": true,
+      "another_furniture.planter_box": true,
+      "another_furniture.bench": true,
+      "another_furniture.chair": true
+    },
+    "leaves_type": {}
+  }
+}

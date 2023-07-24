@@ -1,0 +1,14 @@
+name = "Rechiseled"
+filename = "rechiseled-1.1.1-fabric-mc1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/apuCogMm/rechiseled-1.1.1-fabric-mc1.19.2.jar"
+hash-format = "sha512"
+hash = "26130135582a4f62cdb84ff5ed4fae9519c421102798b8bbb50aac858e824e3f04204fdb76bd4dac12632432f2a921b97a3e17943e90061208a5991b470a34f0"
+
+[update]
+[update.modrinth]
+mod-id = "B0g2vT6l"
+version = "apuCogMm"

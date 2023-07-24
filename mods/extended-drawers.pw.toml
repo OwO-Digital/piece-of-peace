@@ -1,0 +1,14 @@
+name = "Extended Drawers"
+filename = "ExtendedDrawers-1.4.3+mc.1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/AhtxbnpG/versions/rVif6c1F/ExtendedDrawers-1.4.3%2Bmc.1.19.2.jar"
+hash-format = "sha512"
+hash = "60a7c24740217e8d35ac95d39205ba23ecc70c1a8d61fc5c2b3308c8ba9a1bbe7120f9496cb65a58d5ac1662dd6d5966fb6b16948711c3ab28f6380488f70d15"
+
+[update]
+[update.modrinth]
+mod-id = "AhtxbnpG"
+version = "rVif6c1F"

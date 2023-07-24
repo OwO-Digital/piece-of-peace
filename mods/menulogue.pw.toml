@@ -1,0 +1,14 @@
+name = "Menulogue"
+filename = "menulogue-fabric-1.19.2-1.0.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d50c2c6335d7b948d137e8c96572f05ab06182e6"
+
+[update]
+[update.curseforge]
+file-id = 4620806
+project-id = 682371
