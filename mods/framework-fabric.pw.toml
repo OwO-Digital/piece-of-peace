@@ -3,10 +3,9 @@ filename = "framework-fabric-1.19.2-0.6.7.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "c9c93944b30c28800e3fe737a058495abf3a7b32"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

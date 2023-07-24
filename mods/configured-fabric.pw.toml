@@ -3,10 +3,9 @@ filename = "configured-fabric-2.0.0-1.19.2.jar"
 side = "both"
 
 [download]
-mode = "metadata:curseforge"
-url = ""
 hash-format = "sha1"
 hash = "d127fe05abd740f0ad6417ca72eccb12edeb9c71"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

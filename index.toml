@@ -29,10 +29,6 @@ file = "config/NoChatReports/NCR-ServerWhitelist.json"
 hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
 
 [[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "config/almostunified/debug.json"
 hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
 
@@ -66,11 +62,11 @@ hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
 file = "config/backpacked-client.toml"
-hash = "cfe9bc4dc586862e156742a1850da7c456759bb42ce75cdfb95f7a934e20807c"
+hash = "6347e91607e3b516edab564b67455b7d6e6f035c5ccc42f0ac2ba8c0efbc725e"
 
 [[files]]
 file = "config/backpacked-common.toml"
-hash = "226d09189d632969622833e7bb6e68e8b6a48608a54ed3cf577b0e81f5e213bb"
+hash = "78f7694037e462c1c89f5aa5f1cdd2f24104dea185a924224b4d829d3afa6ac9"
 
 [[files]]
 file = "config/beautify.json"
@@ -1354,6 +1350,10 @@ hash = "d15d281ca007f293e3cb1809bca7b677ccdcc966dc1f4506adb294d7c881a5f0"
 metafile = true
 
 [[files]]
+file = "mods/Decorative_Blocks-fabric-1.19.2-3.0.0.jar"
+hash = "cac2f9fb6574c5b12a12ee6776274aae8fbd8ca2598c245aed5ef8793363dcf3"
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "afdbfa43dcc14cbda53f2251082d3bdf6ae47f9c85d52df08f23c5d6ec0e14e7"
 metafile = true
@@ -1395,12 +1395,12 @@ metafile = true
 
 [[files]]
 file = "mods/auto-config-updated-api.pw.toml"
-hash = "d2706d095a3de5d16a77c4018133918d8b8380da1e247831275dd6c715c6d904"
+hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
 metafile = true
 
 [[files]]
 file = "mods/backpacked-fabric.pw.toml"
-hash = "0add4a419d3ce990376dfdc598dee4fe3f1ab7b6dc88426a00d8261b07af2217"
+hash = "d77dc8d6c591c0b49c53e0aa15de1f4f1501066c1de0ea634a57430c899b9231"
 metafile = true
 
 [[files]]
@@ -1465,7 +1465,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue-fabric.pw.toml"
-hash = "9b8f4d7f53d2016cee52198406b4cc803e09b44a3b5e281216dfd4801fa9711d"
+hash = "76bf1e78318caa8ed9254cd0f5fb70d11bbc550741d77942be694d2240d413e7"
 metafile = true
 
 [[files]]
@@ -1500,7 +1500,7 @@ metafile = true
 
 [[files]]
 file = "mods/chimes.pw.toml"
-hash = "e4e2cb7cccaa5ee0e8c947e01b3d2319d91c45ee3c94efc78c0c14f4f6a369d7"
+hash = "909b55ac783674e90b97d08098f3d2ef7d111011b5a607a1eb30821150b60166"
 metafile = true
 
 [[files]]
@@ -1525,7 +1525,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured-fabric.pw.toml"
-hash = "a34b9c466f0a11cb29c2efb57303ad36f5b8173f46e454b41898980a43124fbe"
+hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
 metafile = true
 
 [[files]]
@@ -1535,7 +1535,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "c1383a17daaee5d9d588dc1379d8ee6d7ba5feb346f85720389b10a8b594c8ea"
+hash = "3c6eba70645837f316245ed78bc9e87ff07ee7fd5d25face511053ba1443b34a"
 metafile = true
 
 [[files]]
@@ -1550,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "e7895036f93ba0021ca992811ed7f79cae620b3d3a4b9c0a6440df1fdae4b6fa"
+hash = "a2da82dff5c76651934a5a7fa6ba45cf876cb2da3e07ff15566c60498265fd25"
 metafile = true
 
 [[files]]
@@ -1760,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework-fabric.pw.toml"
-hash = "e86c081f43ef1d374a8df0e6fcff11e294cccff6aca0d0585b686364674030e7"
+hash = "63be02295d776a4fe1af9b55c4445f9dceefadb63faf301bcff51f2661040982"
 metafile = true
 
 [[files]]
@@ -1800,7 +1800,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventorio.pw.toml"
-hash = "f4de5ebdd7c80a995ae4ce4f32765cba031b87773e64d2f8d938f03e94388c52"
+hash = "a851be445f60ab23302c6e2543d846f35d5f0a4a9a1a1b626ebbf68eb4d3af6e"
 metafile = true
 
 [[files]]
@@ -1885,7 +1885,7 @@ metafile = true
 
 [[files]]
 file = "mods/menulogue.pw.toml"
-hash = "6b68e77d3572c42e72d93103ba19d9f571e1244cc28f8a54b4c5b4a5eae57b04"
+hash = "ca5b9529cac43255665efd0232a7ab18bc9440ba33c9675382404c77255b7c2b"
 metafile = true
 
 [[files]]
@@ -2015,7 +2015,7 @@ metafile = true
 
 [[files]]
 file = "mods/regrowth.pw.toml"
-hash = "a2fc9dd8c1726625757d7e2efc6023bc79496162255b51650e7854d6e99e9cce"
+hash = "cc7aba3bce99d607bf688532621ad0d722737b569dd291c7d7e674eeb12cfe66"
 metafile = true
 
 [[files]]
@@ -2209,37 +2209,9 @@ hash = "83287551364ee2de876a95da06b6c7ef5a8e9b2e127885ad4896b9bc914b0ae0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/3d.zip"
-hash = "9dc2a3729d98bda1651fe4a68410a1039aec89286e709711aaefa6896f026551"
-
-[[files]]
-file = "resourcepacks/Andesite_Chests+Crafting_Table_1_18.zip"
-hash = "7ccc11c88f518f92fd0b4395fc2c2f9c694b2f4ad31d3bf3a7b3cdfab9b17e8b"
-
-[[files]]
-file = "resourcepacks/Glowing-OF_v0.2.0-1.20.zip"
-hash = "e56dd8300eae9731134ae8a89e349aa73ae0240e795f224b8ae14827b8e7c2ca"
-
-[[files]]
-file = "resourcepacks/ReimaginedGUI(Dark&Purple) 1.19.2.zip"
-hash = "24efed999dea6ee601149e549f84b3307de511d956e6bf27af64030afaba3e6c"
-
-[[files]]
-file = "resourcepacks/UniqueDark_1.19.2.zip"
-hash = "58133cc83de9eed1bf67c4d4b969432100911b945675a484f042439dd9bd5de3"
-
-[[files]]
-file = "resourcepacks/Visual+Titles+1.18.zip"
-hash = "d30c772bf4214fdd8ccfc9cc6bdee4ead472783a957b258bf02ff9141b6c3ea7"
-
-[[files]]
 file = "resourcepacks/andesite-chests-crafting-table.pw.toml"
 hash = "0624bce0855d89d7321a5fa8a5c0bc1e2aab7357e57a02b7c64bc50add9329ef"
 metafile = true
-
-[[files]]
-file = "resourcepacks/cross.zip"
-hash = "ff49e83a9f96e0eef39806f0699f352c7a08c536d97f0359d23d8a9f7f2302c8"
 
 [[files]]
 file = "resourcepacks/eating-animations.pw.toml"
@@ -2247,21 +2219,8 @@ hash = "03f1e0facf88fbd55a6a31a2a2daec464d4a49b45eb555589bf82616695f2cdd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/eatinganimations++1.10.zip"
-hash = "43f41064f29d179f2e10092e238cbe6ea0cd07a818704feec941be4a86e5f8b5"
-
-[[files]]
-file = "resourcepacks/fWhip's fWoliage Upgrades v1.3.zip"
-hash = "bc28a0780bd70ca24a51174ad2a9ffe917010640e2d7734f2dc3fecf45957982"
-
-[[files]]
 file = "resourcepacks/flat-weapons.pw.toml"
 hash = "855571ec2651baaa4a36521c15372ef0bbca3738f20a63a7b543bdceda8092b5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/reimagined.pw.toml"
-hash = "47f439b78d1014a85b9d2c33ff7e57c823febad40dafce915450d8a03cee65d9"
 metafile = true
 
 [[files]]
@@ -2278,30 +2237,6 @@ metafile = true
 file = "resourcepacks/visual-travelers-titles.pw.toml"
 hash = "50816d5f290f715fd365b073db5948853f95bf149cad9ab9da9a67a3398ab390"
 metafile = true
-
-[[files]]
-file = "resourcepacks/xali's Enchanted Books v0.11.zip"
-hash = "2a4dbb613d77c975dd40bd9e460d05626edbe990d8131685264b383e29faa8ce"
-
-[[files]]
-file = "resourcepacks/xali's Enhanced Jungle Wood v1.2.zip"
-hash = "826eb98eaf57a91847ecbfe525f89350dd08c29eac069663f1bbea435b50ae56"
-
-[[files]]
-file = "resourcepacks/xali's Enhanced Vanilla v1.11.1.zip"
-hash = "470033e258ae5516a90c97d622d3031fec9f5fcd2746f350f37b6c59fcd6a824"
-
-[[files]]
-file = "resourcepacks/xali's Framed Planks v1.2.0.zip"
-hash = "df1d3a0b045beb2ef3929248c4f3597b5bb18a7cd59359e6ed3ce0897efa7828"
-
-[[files]]
-file = "resourcepacks/xali's Potions v1.0.0.zip"
-hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
-
-[[files]]
-file = "resourcepacks/xalis Bushy Leaves v3.3.0.zip"
-hash = "889be9fc646373a5b7f66657d73c873e4f96c453672dffcf8b47bfb0e0585e3a"
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
